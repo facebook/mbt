@@ -1,0 +1,10 @@
+/target/
+**/*.rs.bk
+/docs/
+CLAUDE.md
+*.profraw
+.cargo/config.toml
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

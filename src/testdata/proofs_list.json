@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "proof-001-abc",
+      "epoch": 1709251200,
+      "signer": "CLOUDFLARE",
+      "timestamp": 1709251200,
+      "key_id": 42,
+      "version": "ProtobufEd25519"
+    },
+    {
+      "id": "proof-002-def",
+      "epoch": 1709164800,
+      "signer": "CLOUDFLARE",
+      "timestamp": 1709164800,
+      "key_id": null,
+      "version": "ProtobufEd25519"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "after": "cursor-next-page",
+      "before": null
+    }
+  }
+}

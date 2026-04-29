@@ -1,0 +1,14 @@
+{
+  "id": "proof-001-abc",
+  "namespace_name": "meta.encrypted_backups.fleet_keys.v1",
+  "epoch": 1709251200,
+  "signer": "CLOUDFLARE",
+  "version": "ProtobufEd25519",
+  "timestamp": 1709251200,
+  "key_id": 42,
+  "signature": "c2lnbmF0dXJlLWJ5dGVzLWhlcmU=",
+  "serialized_message": "c2VyaWFsaXplZC1tZXNzYWdlLWJ5dGVz",
+  "meta_signature": "bWV0YS1zaWduYXR1cmUtYnl0ZXM=",
+  "artifact_id": "artifact-001-xyz",
+  "digest": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2"
+}

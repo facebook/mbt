@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "artifact-001-xyz",
+      "namespace_name": "meta.encrypted_backups.fleet_keys.v1",
+      "digest": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+      "digest_algorithm": "SHA256",
+      "additional_digests": {}
+    },
+    {
+      "id": "artifact-002-uvw",
+      "namespace_name": "meta.encrypted_backups.fleet_keys.v1",
+      "digest": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+      "digest_algorithm": "SHA256",
+      "additional_digests": {}
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "after": null,
+      "before": null
+    }
+  }
+}
